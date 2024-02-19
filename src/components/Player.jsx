@@ -12,6 +12,11 @@ export default function Player({ player, symbol }) {
     function handleChangeName(event) {
         setName(event.target.value);
     }
+          
+
+
+
+
     
     return (
 
